@@ -11,7 +11,7 @@ namespace Dungeon_Escape_Game
         }
         static void RunGame()
         {
-            _ = new Game(new Size(25, 25));
+            _ = new Game(new Size(51, 51));
         }
     }
 }
