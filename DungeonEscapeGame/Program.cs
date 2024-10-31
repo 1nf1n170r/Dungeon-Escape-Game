@@ -34,6 +34,7 @@ namespace GameConfig
         public static string StepSpace = "  ";
     }
 }
+
 namespace Game
 {
     using GameConfig;
